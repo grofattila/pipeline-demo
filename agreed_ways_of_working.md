@@ -114,3 +114,10 @@ We will need to have docker builds out of the box for the different components o
 
 ## Maintain
 TODO: add a section about how to maintain the project after delivery.
+
+
+Links:
+- NVIDIA Merlin https://www.nvidia.com/en-us/glossary/recommendation-system/, https://nvidia-merlin.github.io/models/stable/examples/
+- https://github.com/recommenders-team/recommenders
+- https://github.com/shenweichen/DeepCTR
+- Overview: https://arxiv.org/pdf/1707.07435.pdf
